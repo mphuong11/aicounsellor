@@ -1,0 +1,10 @@
+preauthorized:
+  emails:
+  - melsby@gmail.com
+users:
+  test:
+    password: $pbkdf2-sha256$29000$a41R6h1jjPFeq5Uy5vyfcw$dKbwThaEYhNyVvcJBxg/P31Y9mYa4rgR7Q/30pCFFyA
+  toan:
+    password: $pbkdf2-sha256$29000$XevdO6cUQkgppXQuRej9Pw$CU4mQYrVk0XsFLSaxoWgHl1HV/fv9JBNZyREiKok38A
+  toan1:
+    password: $pbkdf2-sha256$29000$OocQojRGCMG4957zfg9hDA$5k6mbiSikp.GkI4BnoHKL7U9b6K/mdx85ZaikrNjB3A
